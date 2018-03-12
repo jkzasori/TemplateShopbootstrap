@@ -1,1 +1,2 @@
-# pruebaApp-ReactNative
+# TemplateShopbootstrap
+template for online store / bootstrap
